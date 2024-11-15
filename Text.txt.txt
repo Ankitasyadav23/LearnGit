@@ -1,0 +1,24 @@
+
+Git is a distributed version control system used for tracking changes in source code during software development. Here’s a quick summary:
+
+Version Control: Allows multiple developers to work on a project without overwriting each other's changes.
+Repository (Repo): A container that holds all the project files and the entire history of changes.
+Commit: Records changes to the repository with a unique ID and message.
+Branch: A separate line of development, allowing for parallel work on different features or bug fixes.
+Merge: Combines changes from different branches into one.
+Clone: Creates a local copy of a remote repository.
+Push/Pull: Push sends local commits to a remote repo; Pull fetches and merges changes from a remote repo.
+Staging Area: A place to review changes before committing.
+Key Commands:
+
+git init: Initialize a new Git repository.
+git clone [URL]: Clone a repository.
+git add [file]: Stage changes for commit.
+git commit -m "message": Commit staged changes.
+git status: Check the status of changes.
+git push: Push commits to a remote repository.
+git pull: Fetch and merge changes from a remote repository.
+git branch: List or create branches.
+git checkout [branch]: Switch to another branch.
+git merge [branch]: Merge a branch into the current branch.
+Git helps with collaboration, version tracking, and managing code efficiently in both small and large projects.
